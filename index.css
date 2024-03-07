@@ -1,0 +1,12 @@
+h1 {
+    color: yellow;
+}
+
+
+.bg-dark {
+    background-color: black;
+}
+
+.btn-toggle {
+    visibility: hidden;
+}
